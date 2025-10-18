@@ -2,4 +2,4 @@
 for proj
 
 
-for us and fo them
+for us and FOR THEM
